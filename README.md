@@ -16,13 +16,13 @@ Hi, I'm Rafael Luyo!
 ```
 RafaelLuyo@github
 ---------------
-💻 Soy estudiante de Ingeniería de Software en la UPC y practicante de TI en Canvia
+💻 Estudiante de Ingeniería de Software en la UPC
 📚 Me especializo en desarrollo front-end y back-end
 📝 Apasionado por crear soluciones digitales innovadoras, creativas y útiles
-🔭 Actualmente profundizando en Cloud Computing, DevOps e Inteligencia Artificial
-🌱 Aprendiendo sobre arquitecturas escalables y buenas prácticas de desarrollo
+🔭 Actualmente profundizando en Cloud Computing, DevOps e IA
+🌱 Aprendiendo sobre arquitecturas escalables y buenas prácticas 
 🌟 Lenguajes principales: Python, C++, Java, JavaScript
-🚩 Interesado en cloud, desarrollo fullstack y tecnología con impacto real
+🚩 Interesado en cloud y desarrollo fullstack
 🎮 Lol player retirado
 🎵 Escucho desde lofi, jazz hasta rock
 ```
