@@ -18,7 +18,7 @@ RafaelLuyo@github
 ---------------
 💻 Estudiante de Ingeniería de Software en la UPC
 📚 Me especializo en desarrollo front-end y back-end
-📝 Apasionado por crear soluciones digitales innovadoras, creativas y útiles
+📝 Apasionado por crear soluciones digitales innovadoras y creativas
 🔭 Actualmente profundizando en Cloud Computing, DevOps e IA
 🌱 Aprendiendo sobre arquitecturas escalables y buenas prácticas 
 🌟 Lenguajes principales: Python, C++, Java, JavaScript
