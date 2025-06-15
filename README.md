@@ -9,7 +9,7 @@ Hi, I'm Rafael Luyo!
 </p>
 
 
-<img align="left" src="imgs/spidey.jpg" alt="Foto de Rafael Luyo" width="320" height= "320"/>
+<img align="left" src="imgs/tenor.gif"  width= 320 />
 <hr>
 
 
