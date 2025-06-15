@@ -25,10 +25,13 @@ Hi, I'm Rafael Luyo!
 🚩 Interested in cloud and fullstack development  
 🎮 Retired LoL player  
 🎵 I listen to everything from lofi and jazz to rock  
-📫 Reach out to me at: rafa.libra06@gmail.com or u201919295@upc.edu.pe  
+📫 Reach out to me at: rafa.libra06@gmail.com or u201919295@upc.edu.pe
+
 ```
 
+
 <hr>
+
 
 ## 🛠️ Technologies and Tools
 
