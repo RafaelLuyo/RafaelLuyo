@@ -15,8 +15,6 @@ Hi, I'm Rafael Luyo!
 
 
 ```
-About me
-
 💻 Software Engineering student at UPC (Peru)  
 📚 Specializing in front-end and back-end development  
 📝 Passionate about building innovative and creative digital solutions  
