@@ -11,6 +11,7 @@ Hi, I'm Rafael Luyo!
 
 <img align="left" src="imgs/tenor.gif" width="310" />
 <hr>
+
 ```
 
 💻 Software Engineering student at UPC (Peru)  
