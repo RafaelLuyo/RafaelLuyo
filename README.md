@@ -18,7 +18,7 @@ Hi, I'm Rafael Luyo!
 💻 Software Engineering student at UPC (Peru)  
 📚 Specializing in front-end and back-end development  
 📝 Passionate about building innovative and creative digital solutions  
-🔭 Currently exploring Cloud Computing, DevOps, and Artificial Intelligence  
+🔭 Currently exploring Cloud Computing, DevOps, and AI 
 🌱 Learning about scalable architectures and software best practices  
 🌟 Main languages: Python, C++, Java, JavaScript  
 🚩 Interested in cloud and fullstack development  
