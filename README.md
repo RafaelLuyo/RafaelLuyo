@@ -5,7 +5,7 @@ Hi, I'm Rafael Luyo!
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Fullstack+Developer;Long+Live+Rock!&center=true&width=420&height=45&color=000000">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Fullstack+Developer;viva+el+rock&center=true&width=420&height=45&color=000000">
   </a>
 </p>
 
