@@ -9,11 +9,8 @@ Hi, I'm Rafael Luyo!
   </a>
 </p>
 
-
-<img align="left" src="imgs/tenor.gif" width="320" />
+<img align="left" src="imgs/tenor.gif" width="310" />
 <hr>
-
-
 ```
 
 💻 Software Engineering student at UPC (Peru)  
