@@ -9,8 +9,9 @@ Hi, I'm Rafael Luyo!
 </p>
 
 
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Espacio para mi foto" width="320"/>
+<img align="left" src="imgs/spidey.jpg" alt="Foto de Rafael Luyo" width="320" height= "320"/>
 <hr>
+
 
 ```
 RafaelLuyo@github
