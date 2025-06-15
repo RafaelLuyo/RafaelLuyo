@@ -1,60 +1,63 @@
 <h1 align="center">
 Hi, I'm Rafael Luyo!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Ingeniero+de+Software;Desarrollador+Fullstack;Viva+el+rock&center=true&width=420&height=45&color=000000">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Fullstack+Developer;Long+Live+Rock!&center=true&width=420&height=45&color=000000">
   </a>
 </p>
 
 
-<img align="left" src="imgs/tenor.gif"  width= 320 />
+<img align="left" src="imgs/tenor.gif" width="320" />
 <hr>
 
 
 ```
-RafaelLuyo@github
----------------
-💻 Estudiante de Ingeniería de Software en la UPC
-📚 Me especializo en desarrollo front-end y back-end
-📝 Apasionado por crear soluciones digitales innovadoras y creativas
-🔭 Actualmente profundizando en Cloud Computing, DevOps e IA
-🌱 Aprendiendo sobre arquitecturas escalables y buenas prácticas 
-🌟 Lenguajes principales: Python, C++, Java, JavaScript
-🚩 Interesado en cloud y desarrollo fullstack
-🎮 Lol player retirado
-🎵 Escucho desde lofi, jazz hasta rock
+About me
+
+💻 Software Engineering student at UPC (Peru)  
+📚 Specializing in front-end and back-end development  
+📝 Passionate about building innovative and creative digital solutions  
+🔭 Currently exploring Cloud Computing, DevOps, and Artificial Intelligence  
+🌱 Learning about scalable architectures and software best practices  
+🌟 Main languages: Python, C++, Java, JavaScript  
+🚩 Interested in cloud and fullstack development  
+🎮 Retired LoL player  
+🎵 I listen to everything from lofi and jazz to rock  
+📫 Reach out to me at: rafa.libra06@gmail.com or u201919295@upc.edu.pe  
 ```
+
 <hr>
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Technologies and Tools
 
-### 👨‍💻 Lenguajes
+### 👨‍💻 Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,cs,py,java,js,html,css&perline=10" />
 </p>
 
-### 🧰 Frameworks y Librerías
+### 🧰 Frameworks and Libraries
 <p align="center">
   <img src="https://skillicons.dev/icons?i=angular,vue,spring,dotnet,flutter,androidstudio&perline=10" />
 </p>
 
-### 🗄️ Bases de datos y Cloud
+### 🗄️ Databases and Cloud
 <p align="center">
   <img src="https://skillicons.dev/icons?i=sqlserver,mysql,firebase,aws&perline=10" />
 </p>
 
-### 🔧 Herramientas y otros
+### 🔧 Tools and Others
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,docker,figma,vscode,linux&perline=10" />
 </p>
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RafaelLuyo&show_icons=true&theme=tokyonight&hide_border=true&locale=es" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RafaelLuyo&show_icons=true&theme=tokyonight&hide_border=true&locale=en" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelLuyo&theme=material-palenight" />
 </p>
